@@ -4,9 +4,9 @@ I'm **Aitor Pérez**, an aspiring developer on a journey through **Multiplatform
 
 ## 🛠️ Tech Tools in My Arsenal
 <div>
-    <img src="https://upload.wikimedia.org/wikipedia/java/4/4e/Java_logo_and_wordmark.svg" alt="Java" width="50" height="50" style="display:inline-block; margin: 5px;"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/SQL_Logo.svg" alt="SQL" width="50" height="50" style="display:inline-block; margin: 5px;"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Docker_Logo.png" alt="Docker" width="50" height="50" style="display:inline-block; margin: 5px;"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Java_Logo.svg" alt="Java" width="50" height="50" style="display:inline-block; margin: 5px;"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/SQL_Server_Logo.svg" alt="SQL" width="50" height="50" style="display:inline-block; margin: 5px;"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_Logo.png" alt="Docker" width="50" height="50" style="display:inline-block; margin: 5px;"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" width="50" height="50" style="display:inline-block; margin: 5px;"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="50" height="50" style="display:inline-block; margin: 5px;"/> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/XML_logo.svg" alt="XML" width="50" height="50" style="display:inline-block; margin: 5px;"/> 
