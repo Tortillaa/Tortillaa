@@ -10,7 +10,7 @@ I'm **Aitor Pérez**, an aspiring developer on a journey through **Multiplatform
 - **XML** 📄
 
 ## 🎓 My Academic Journey
-I hold a degree in **Microcomputer Systems and Networks**, equipping me with essential skills in IT and networking that fuel my path to knowedge.
+I hold a degree in **Microcomputer Systems and Networks**, equipping me with essential skills in IT and networking that fuel my path to knowledge. Currently, I am pursuing my studies in **Multiplatform Application Development**, where I am expanding my expertise in various programming languages and technologies.
 
 ## 🚨 Areas I'm Eager to Explore
 I am particularly interested in the fields of **Artificial Intelligence** 🤖 and **Cybersecurity** 🔐. I am eager to explore how these technologies can be harnessed to create safer and more intelligent applications.
