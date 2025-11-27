@@ -1,22 +1,83 @@
-# Aitor Here! 🙃👋
+# 👋 Hey there! I'm Aitor Pérez
 
-I'm **Aitor Pérez**, an aspiring developer on a journey through **Multiplatform Application Development** at the **Escola del Treball in Barcelona**. My enthusiasm for coding and my desire to keep learning are fueled by the goal of making our days easier.
-## 🛠️ Tech Tools in My Arsenal
-- **Java** ☕
-- **SQL** 🗄️
-- **Docker** 🐳
-- **HTML5** 🌐
-- **CSS3** 🎨
-- **XML** 📄
+[![GitHub
+Followers](https://img.shields.io/github/followers/Aitor?style=for-the-badge)](https://github.com/)\
+[![Profile
+Views](https://komarev.com/ghpvc/?username=Aitor&style=for-the-badge)](https://github.com/)\
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aitor%20Pérez-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aitor-perez-2b070b2b1)
 
-## 🎓 My Academic Journey
-I hold a degree in **Microcomputer Systems and Networks**, equipping me with essential skills in IT and networking that fuel my path to knowledge. Currently, I am pursuing my studies in **Multiplatform Application Development**, where I am expanding my expertise in various programming languages and technologies.
+I'm a **Multiplatform Application Development student** at Escola del
+Treball (Barcelona) with a strong foundation in IT and software
+development.\
+I love building useful, clean and intuitive applications --- and I'm
+always exploring new technologies to level up my skills.
 
-## 🚨 Areas I'm Eager to Explore
-I am particularly interested in the fields of **Artificial Intelligence** 🤖 and **Cybersecurity** 🔐. I am eager to explore how these technologies can be harnessed to create safer and more intelligent applications.
+# 🛠️ Tech Stack
 
-## ✉️ Let’s Connect!
-If you’re interested in collaborating on innovative projects or just want to exchange ideas about technology, don’t hesitate to reach out!
+### **Languages & Frontend**
 
-## 📬 Shoot Me a Message
-You can reach me at [aitor.house1@gmail.com](mailto:aitor.house1@gmail.com). I look forward to hearing from you!
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![XML](https://img.shields.io/badge/XML-0052CC?style=for-the-badge)
+
+### **Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-3c873a?style=for-the-badge&logo=node.js)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+
+### **Tools & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab)
+
+### **Systems & Networking**
+
+-   Windows & Linux\
+-   Local network setup\
+-   Hardware assembly & diagnostics
+
+# 🎓 Education
+
+### 🎓 Multiplatform Application Development (DAM) --- *Currently studying*
+
+### 🎓 Microcomputer Systems and Networks
+
+### 🏅 Oracle + Alura Certification
+
+-   JavaScript\
+-   HTML & CSS\
+-   UI Design
+
+# 🚀 Interests & Learning Goals
+
+I'm currently diving deeper into:
+
+-   **Artificial Intelligence 🤖**\
+-   **Cybersecurity 🔐**
+
+# 📊 GitHub Stats
+
+::: {align="center"}
+![Aitor GitHub
+Stats](https://github-readme-stats.vercel.app/api?username=Aitor&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top
+Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aitor&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub
+Streak](https://streak-stats.demolab.com/?user=Aitor&theme=tokyonight&hide_border=true)
+:::
+
+# 🌍 Languages
+
+-   **Spanish** --- Native\
+-   **Catalan** --- Native\
+-   **English** --- English First Certification
+
+# ✉️ Contact
+
+🔗 **LinkedIn:** https://linkedin.com/in/aitor-perez-2b070b2b1
