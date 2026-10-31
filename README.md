@@ -2,9 +2,9 @@
 
 ![Aitor Pérez](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aitor%20P%C3%A9rez&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Data%20Analyst%20%C2%B7%20AI%20%26amp%3B%20Big%20Data%20%C2%B7%20Developer&descAlignY=55&descSize=20)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2C5364&center=true&vCenter=true&width=560&lines=Building%20ETL%20pipelines%20in%20Python;Turning%20raw%20data%20into%20insights;Working%20with%20AI%20agents;Studying%20AI%20%26%20Big%20Data%20%40%20Monlau.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4fa3c7&center=true&vCenter=true&width=560&lines=Building%20ETL%20pipelines%20in%20Python;Turning%20raw%20data%20into%20insights;Working%20with%20AI%20agents;Studying%20AI%20%26%20Big%20Data%20%40%20Monlau.)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aitor-perez-2b070b2b1) [![Email](https://img.shields.io/badge/Email-aitor.house%40hotmail.com-0078D4?style=for-the-badge)](mailto:aitor.house@hotmail.com) [![Profile views](https://komarev.com/ghpvc/?username=Tortillaa&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Tortillaa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aitor-perez-2b070b2b1) [![Profile views](https://komarev.com/ghpvc/?username=Tortillaa&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/Tortillaa)
 
 </div>
 
@@ -53,8 +53,6 @@
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.shion.dev/api?username=Tortillaa&theme=tokyonight&count_private=true) ![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Tortillaa&layout=compact&theme=tokyonight)
 
 ![GitHub streak](https://streak-stats.demolab.com/?user=Tortillaa&theme=tokyonight)
 
