@@ -10,7 +10,7 @@
 
 ## Currently
 
-- **Data Analyst Intern** @ Foxize (since Jan 2026): ETL with Python, pandas, polars and SQL.
+- **Data Analyst Intern** @ Foxize (since Jan 2026): ETL with Python, pandas and SQL.
 - **FP Master's in AI & Big Data** @ Monlau (since Sep 2026).
 - AI agents.
 
@@ -30,7 +30,7 @@
 
 ## Featured Projects
 
-- [portfolioMatrix.github.io](https://github.com/Tortillaa/portfolioMatrix.github.io) — built with Vite + React + ReactBits.
+- [portfolio-tortilla.github.io](https://tortillaa.github.io/portfolio-tortillaa/) — built with Vite + React + ReactBits.
 
 ## Experience
 
