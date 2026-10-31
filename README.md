@@ -50,11 +50,7 @@
 - Catalan (native)
 - English (B2 First)
 
-## GitHub Stats
-
 <div align="center">
-
-![GitHub streak](https://streak-stats.demolab.com/?user=Tortillaa&theme=tokyonight)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tortillaa/Tortillaa/output/github-snake-dark.svg" />
